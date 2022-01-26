@@ -28,8 +28,3 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Maven 3.6.3 ou versões superiores.
 * Intellj IDEA Community Edition ou sua IDE favorita.
 * Controle de versão GIT instalado na sua máquina.
-* Muita vontade de aprender e compartilhar conhecimento :)
-
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
-
-
